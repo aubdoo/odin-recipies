@@ -1,0 +1,17 @@
+[33mcommit 38aa960d1e577ad6ef6ebe2c7da2593f0e87c769[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: FrogInAForest <200953770+aubdoo@users.noreply.github.com>
+Date:   Tue Mar 4 07:38:51 2025 -0500
+
+    Add lsgna recipie and links
+
+[33mcommit 76b459b76561e884f215f7f10b724f4bf7cee13a[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: FrogInAForest <200953770+aubdoo@users.noreply.github.com>
+Date:   Tue Mar 4 07:26:31 2025 -0500
+
+    Add html boilerplate
+
+[33mcommit e183211d2d1c089449f2fa1d36c24e4051a51d1b[m
+Author: FrogInAForest <200953770+aubdoo@users.noreply.github.com>
+Date:   Mon Mar 3 07:30:03 2025 -0500
+
+    Setup basic file structure and README
