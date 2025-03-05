@@ -7,4 +7,9 @@ I will also make sure to follow proper file conventions, git commit
 conventions, and semantic html guidelines.
 
 
-Conclusion/summary:
+Conclusion/post summary:
+
+Extensive practice with html. Confident in the basic uses of the language.
+
+Gained experience with Git commands, creating Github repository's, and the
+'add, commit, push' Git workflow.
